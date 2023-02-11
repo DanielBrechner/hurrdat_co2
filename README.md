@@ -74,13 +74,13 @@ data source for Saffir-Simpson Hurricane Wind Scale https://www.nhc.noaa.gov/abo
 
 # About the Hurricane/Typhoon data:
 
- ## Status column in the dataset can be the following types:
- ## TD – Tropical cyclone of tropical depression intensity (< 34 knots)
- ## TS – Tropical cyclone of tropical storm intensity (34-63 knots)
- ## HU – Tropical cyclone of hurricane intensity (> 64 knots)
- ## EX – Extratropical cyclone (of any intensity)
- ## SD – Subtropical cyclone of subtropical depression intensity (< 34 knots)
- ## SS – Subtropical cyclone of subtropical storm intensity (> 34 knots)
- ## LO – A low that is neither a tropical cyclone, a subtropical cyclone, nor an extratropical cyclone (of any intensity)
- ## WV – Tropical Wave (of any intensity)
- ## DB – Disturbance (of any intensity)
+ ### Status column in the dataset can be the following types:
+ ### TD – Tropical cyclone of tropical depression intensity (< 34 knots)
+ ### TS – Tropical cyclone of tropical storm intensity (34-63 knots)
+ ### HU – Tropical cyclone of hurricane intensity (> 64 knots)
+ ### EX – Extratropical cyclone (of any intensity)
+ ### SD – Subtropical cyclone of subtropical depression intensity (< 34 knots)
+ ### SS – Subtropical cyclone of subtropical storm intensity (> 34 knots)
+ ### LO – A low that is neither a tropical cyclone, a subtropical cyclone, nor an extratropical cyclone (of any intensity)
+ ### WV – Tropical Wave (of any intensity)
+ ### DB – Disturbance (of any intensity)
