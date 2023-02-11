@@ -2,20 +2,7 @@
 Comparing Hurricane/Typhoon data from 1851-2015 with global CO2 emissions to evaluate a possible correlation
 
 
-# About the Hurricane/Typhoon data:
-
- Status can be the following types:
- TD – Tropical cyclone of tropical depression intensity (< 34 knots)
- TS – Tropical cyclone of tropical storm intensity (34-63 knots)
- HU – Tropical cyclone of hurricane intensity (> 64 knots)
- EX – Extratropical cyclone (of any intensity)
- SD – Subtropical cyclone of subtropical depression intensity (< 34 knots)
- SS – Subtropical cyclone of subtropical storm intensity (> 34 knots)
- LO – A low that is neither a tropical cyclone, a subtropical cyclone, nor an extratropical cyclone (of any intensity)
- WV – Tropical Wave (of any intensity)
- DB – Disturbance (of any intensity)
-
- # Some background on Hurricanes 
+ # Some background information on Hurricanes 
 
  Hurricanes are tropical cyclones with winds that exceed 64 knots (74 mi/hr) and blow counterclockwise about their centers in the Northern hemisphere, (clockwise in the Southern hemisphere).
 
@@ -84,3 +71,16 @@ Types of Damage Due to Hurricane Winds
 Catastrophic damage will occur: A high percentage of framed homes will be destroyed, with total roof failure and wall collapse. Fallen trees and power poles will isolate residential areas. Power outages will last for weeks to possibly months. Most of the area will be uninhabitable for weeks or months.
 
 data source for Saffir-Simpson Hurricane Wind Scale https://www.nhc.noaa.gov/aboutsshws.php
+
+# About the Hurricane/Typhoon data:
+
+ ## Status column in the dataset can be the following types:
+ ## TD – Tropical cyclone of tropical depression intensity (< 34 knots)
+ ## TS – Tropical cyclone of tropical storm intensity (34-63 knots)
+ ## HU – Tropical cyclone of hurricane intensity (> 64 knots)
+ ## EX – Extratropical cyclone (of any intensity)
+ ## SD – Subtropical cyclone of subtropical depression intensity (< 34 knots)
+ ## SS – Subtropical cyclone of subtropical storm intensity (> 34 knots)
+ ## LO – A low that is neither a tropical cyclone, a subtropical cyclone, nor an extratropical cyclone (of any intensity)
+ ## WV – Tropical Wave (of any intensity)
+ ## DB – Disturbance (of any intensity)
