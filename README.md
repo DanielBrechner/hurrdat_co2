@@ -10,7 +10,6 @@
 
 4. Run the following command to create a virtual environment:
 `python -m venv myenv`
-Replace myenv with the name you want to give your virtual environment.
 
 5. Activate the virtual environment by running the following command:
 
