@@ -1,5 +1,44 @@
 # Comparing Hurricane data from 1851-2015 with global CO2 emissions to evaluate a possible correlation
 
+## Running this project
+
+1. Clone this GitHub repository.
+
+2. Open a terminal or command prompt.
+
+3. Navigate to the root directory of the cloned repository.
+
+4. Run the following command to create a virtual environment:
+`python -m venv myenv`
+Replace myenv with the name you want to give your virtual environment.
+
+5. Activate the virtual environment by running the following command:
+
+On Windows:
+`myenv\Scripts\activate.bat`
+On macOS or Linux:
+`source myenv/bin/activate`
+
+6. Once the virtual environment is activated, install the project dependencies by running the following command:
+`pip install -r requirements.txt`
+
+7. Run the project with following command:
+`jupyter notebook atlantic_hurricanes.ipynb`
+
+8. When you're done working on the project, deactivate the virtual environment by running the following command:
+`deactivate`
+
+
+## About the datasets 
+
+The data for global CO2 emissions (1750-2020) are from;
+https://ourworldindata.org/co2-emissions 
+
+The data for hurricanes (1851-2015) are from The National Hurricane Center (NHC) and was downloaded from;
+https://www.kaggle.com/datasets/noaa/hurricane-database
+
+The NHC conducts a post-storm analysis of each tropical cyclone in the Atlantic basin (i.e., North Atlantic Ocean, Gulf of Mexico, and Caribbean Sea) and and the North Pacific Ocean to determine the official assessment of the cyclone's history. This analysis makes use of all available observations, including those that may not have been available in real time. In addition, NHC conducts ongoing reviews of any retrospective tropical cyclone analyses brought to its attention and on a regular basis updates the historical record to reflect
+changes introduced.
 
  # Some background information on Hurricanes 
 
