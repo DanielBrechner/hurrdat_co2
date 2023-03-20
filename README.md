@@ -1,4 +1,8 @@
-# Comparing Hurricane data from 1851-2015 with global CO2 emissions to evaluate a possible correlation
+# Comparing Hurricane data from 1851-2015 with global CO2 emissions data to evaluate a possible correlation
+
+Hurricanes are natural disasters that can have devastating effects on human populations, infrastructure, and economies. The frequency, intensity, and duration of hurricanes can be influenced by a range of factors, including temperature, humidity, ocean currents, and wind patterns. CO2 emissions, on the other hand, are a key driver of global warming and climate change. The burning of fossil fuels, deforestation, and other human activities have led to increased levels of CO2 in the atmosphere, which can cause a range of negative impacts, including rising sea levels, more frequent and severe heat waves, and changes in precipitation patterns.  
+
+The potential correlation between these two variables is an important area of study as it could have significant implications for climate change research and policy.
 
 ## Running this project
 
@@ -28,7 +32,7 @@ On macOS or Linux:
 `deactivate`
 
 
-## About the datasets 
+## About the data 
 
 The data for global CO2 emissions (1750-2020) are from;
 https://ourworldindata.org/co2-emissions 
@@ -39,7 +43,7 @@ https://www.kaggle.com/datasets/noaa/hurricane-database
 The NHC conducts a post-storm analysis of each tropical cyclone in the Atlantic basin (i.e., North Atlantic Ocean, Gulf of Mexico, and Caribbean Sea) and and the North Pacific Ocean to determine the official assessment of the cyclone's history. This analysis makes use of all available observations, including those that may not have been available in real time. In addition, NHC conducts ongoing reviews of any retrospective tropical cyclone analyses brought to its attention and on a regular basis updates the historical record to reflect
 changes introduced.
 
- # Some background information on Hurricanes 
+ # Background information on hurricanes 
 
  Hurricanes are tropical cyclones with winds that exceed 64 knots (74 mi/hr) and blow counterclockwise about their centers in the Northern hemisphere, (clockwise in the Southern hemisphere).
 
