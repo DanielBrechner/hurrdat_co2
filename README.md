@@ -10,6 +10,8 @@ The potential correlation between these two variables is an important area of st
 
 ## Running this project
 
+### Download Jupyter 6.5.2
+
 1. Clone this GitHub repository.
 
 2. Open a terminal or command prompt.
