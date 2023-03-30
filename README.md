@@ -8,6 +8,16 @@ Hurricanes are natural disasters that can have devastating effects on human popu
 
 The potential correlation between these two variables is an important area of study as it could have significant implications for climate change research and policy.
 
+## Five features used in this project
+
+The features used in this project are listed in the atlantic_hurricanes.ipynb notebook for grading purposes. They are as follows;
+
+Feature 1. Read TWO data files (JSON,CSV, Excel, etc.).
+Feature 2. Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.
+Feature 3. Visualize your data. Make 3 matplotlib or seaborn visualizations to display your data.
+Feature 4. Best Practices. Utilize a virtual environment and include instructions in your README on how the user should set one up
+Feature 5. Interpretation of your data.
+
 ## Running this project
 
 This project uses Python 3.9.12 and Jupyter Notebook 6.5.2 and all dependencies are found in the requirements.txt file
