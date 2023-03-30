@@ -10,7 +10,9 @@ The potential correlation between these two variables is an important area of st
 
 ## Running this project
 
-### Download Jupyter 6.5.2
+This project uses Python 3.9.12 and Jupyter Notebook 6.5.2 and all dependencies are found in the requirements.txt file
+
+### Getting a virtual environment setup
 
 1. Clone this GitHub repository.
 
@@ -119,15 +121,3 @@ Catastrophic damage will occur: A high percentage of framed homes will be destro
 
 data source for Saffir-Simpson Hurricane Wind Scale https://www.nhc.noaa.gov/aboutsshws.php
 
-# About the Hurricane/Typhoon data:
-
- ### Status column in the dataset can be the following types:
- ### TD – Tropical cyclone of tropical depression intensity (< 34 knots)
- ### TS – Tropical cyclone of tropical storm intensity (34-63 knots)
- ### HU – Tropical cyclone of hurricane intensity (> 64 knots)
- ### EX – Extratropical cyclone (of any intensity)
- ### SD – Subtropical cyclone of subtropical depression intensity (< 34 knots)
- ### SS – Subtropical cyclone of subtropical storm intensity (> 34 knots)
- ### LO – A low that is neither a tropical cyclone, a subtropical cyclone, nor an extratropical cyclone (of any intensity)
- ### WV – Tropical Wave (of any intensity)
- ### DB – Disturbance (of any intensity)
