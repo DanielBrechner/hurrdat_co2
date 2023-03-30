@@ -1,5 +1,9 @@
 # Comparing Hurricane data from 1851-2015 with global CO2 emissions data to evaluate a possible correlation
 
+## About this project
+
+In this project, I have two main notebooks of analysis - atlantic_hurricanes.ipynb and all_hurr_test.ipynb. You will need to download Jupyter Notebook to run this project. For the purposes of the Code Louisville Data Analysis 2 class, run the atlantic_hurricanes.ipynb and project requirements will be listed for ease of grading. The purpose of the two notebooks it is look at historical hurricane and CO2 data over time. In the notebook for Atlantic hurricane analysis, I look at a smaller subset of hurricane data (1950-2015), and the goal of this is to use the most accurate data while still giving a historical perspective. Hurricane classification (naming convention) and data recording methods are considered more accurate starting in the 1950s. But to explore and analyze the data over the entire dataset, whether less accurate or not, we get a better understanding and picture of the complete dataset in all_hurr_test.ipynb.
+
 Hurricanes are natural disasters that can have devastating effects on human populations, infrastructure, and economies. The frequency, intensity, and duration of hurricanes can be influenced by a range of factors, including temperature, humidity, ocean currents, and wind patterns. CO2 emissions, on the other hand, are a key driver of global warming and climate change. The burning of fossil fuels, deforestation, and other human activities have led to increased levels of CO2 in the atmosphere, which can cause a range of negative impacts, including rising sea levels, more frequent and severe heat waves, and changes in precipitation patterns.  
 
 The potential correlation between these two variables is an important area of study as it could have significant implications for climate change research and policy.
@@ -31,10 +35,6 @@ On macOS or Linux:
 
 8. When you're done working on the project, deactivate the virtual environment by running the following command:
 `deactivate`
-
-## More about this project
-
-In this project, I have two main notebooks of analysis - atlantic_hurricanes.ipynb and all_hurr_test.ipynb. For the purposes of the Code Louisville Data Analysis 2 class, run the atlantic_hurricanes.ipynb and project requirements will be listed for ease of grading. The purpose of the two notebooks it is look at historical hurricane and CO2 data over time. In the notebook for Atlantic hurricane analysis, I look at a smaller subset of hurricane data (1950-2015), and the goal of this is to use the most accurate data while still giving a historical perspective. Hurricane classification (naming convention) and data recording methods are considered more accurate starting in the 1950s. But to explore and analyze the data over the entire dataset, whether less accurate or not, we get a better understanding and picture of the complete dataset in all_hurr_test.ipynb.
 
 ## About the data 
 
